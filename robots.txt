@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ips2pe.salamduit.online/sitemap.xml
